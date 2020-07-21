@@ -54,7 +54,7 @@
     "karma-webpack": "^1.7.0",
     "mocha": "^2.0.1",
     "pretty-bytes": "^2.0.1",
-    "qs": "^4.0.0",
+    "qs": "^6.9.4",
     "react": "0.14.0",
     "react-addons-test-utils": "0.14.0",
     "react-addons-css-transition-group": "^0.14.0",
